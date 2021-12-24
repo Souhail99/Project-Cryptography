@@ -1,14 +1,14 @@
 {
-  "primaryKeyId": 573067881,
+  "primaryKeyId": 977755010,
   "key": [
     {
       "keyData": {
         "typeUrl": "type.googleapis.com/google.crypto.tink.AesSivKey",
-        "value": "EkDptmRshocHwqVh6G+2wP9a+eRXqz+DjP4+CdA2qEiVbFMCawJ7OXtQT07IP6Jpk3LX7OXnVwa1jdj/I1+WyXZH",
+        "value": "EkDExGje+NtEfANbz5hOMygUYroN5dAD8BNtIzcVYX0Tf2EaFjrlkjIcPBJhwfXUdx/JYhuoHQLrAKFON7Hw+LvN",
         "keyMaterialType": "SYMMETRIC"
       },
       "status": "ENABLED",
-      "keyId": 573067881,
+      "keyId": 977755010,
       "outputPrefixType": "TINK"
     }
   ]
