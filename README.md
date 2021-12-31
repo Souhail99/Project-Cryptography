@@ -1,8 +1,7 @@
 # Project-Cryptography
+By Souhail AIT LAHCEN
 
-# By Souhail AIT LAHCEN
-
-Question  1 :
+### Question  1 :
 
 For Wikipedia : case sensitivity defines whether uppercase and lowercase letters are treated as distinct (case-sensitive) or equivalent (case-insensitive). But for for password and in our case, we are in acase-sensitive mode. 
 
@@ -10,7 +9,6 @@ This is the list :
 
 ![PhotoCrypto](https://user-images.githubusercontent.com/55179344/147825946-69da5716-ba1d-4e64-94d9-ae91c3ec83dd.png)
 
-### Question 1 :
 
 We have 26+15 =41 characters (distinct)
 
@@ -25,7 +23,7 @@ We have different solutions like a cold wallet : you write your password on pap
 
 ### Attempt 2 (Increasing the entropy) :
 
-Like now, we have lot websites, which ask us to use non alphanumeric character or maybe to use uppercase and lowercase (both)  why ? Bercause as you know, in entropy formula the number of symbols in the password and the number of possible symbols are proportional to the entropy. As you understood we can use on alphanumeric character or use uppercase and lowercase (both), increase the lentgh of the password and also to fight against the database breaches, use differents passwords between our different account.
+Like now, we have lot websites, which ask us to use non alphanumeric character or maybe to use uppercase and lowercase (both)  why ? Because as you know, in the entropy formula the number of symbols in the password and the number of possible symbols are proportional to the entropy. As you understood we can use on alphanumeric character or use uppercase and lowercase (both), increase the lentgh of the password and also to fight against the database breaches, use differents passwords between our different account.
 
 ### Attempt 3 (Which hashing algorithm to use) :
 
