@@ -34,7 +34,7 @@ With google researchs, we can notice that the experts recommend us to use strong
 Store a another key in another database, to avoid this.One key for the all company.
 
 
-## Usage of the scripts
+## Usage of the script
 
 First to import (or install) this :.
 
