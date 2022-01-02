@@ -27,11 +27,11 @@ Like now, we have lot websites, which ask us to use non alphanumeric character o
 
 ### Attempt 3 (Which hashing algorithm to use) :
 
-With google researchs, we can notice that the experts recommend us to use stronger hashing algorithms like SHA-256 or SHA-3. But we can also bcrypt or argon for example. 
+With google researchs, we can notice that the experts recommend us to use stronger hashing algorithms like SHA-256 or SHA-3. But we can also use bcrypt or argon for example. 
 
 ### Attempt 4 (Data breaches and how to deal with it)
 
-Store a another key in another database, to avoid this.One key for the all company.
+Store a another key in another database, to avoid this. One key for the all company.
 
 
 ## Usage of the script
